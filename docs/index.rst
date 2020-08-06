@@ -38,3 +38,4 @@ For more information, please check the documentation below.
    Get Started <gettingstarted>
    Develop Guide <developguide>
    H/W Reference <hardware>
+   Contents <contents>
