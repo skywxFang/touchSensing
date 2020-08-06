@@ -6,15 +6,35 @@
 Welcome to touchSensing's documentation!
 ========================================
 
+This project aims to build a smart light with an ESP32 development board.
+
+The smart light should have the following features:
+
+* Controlled by touch action
+* With adjustable brightness
+* With four states
+* Powered via USB interface
+
+For more information, please check the documentation below.
+
+==================  ==================  ==================
+|Get Started|_      |Develop Guide|_    |H/W Reference|_
+------------------  ------------------  ------------------
+`Get Started`_      `Develop Guide`_    `H/W Reference`_
+==================  ==================  ==================
+
+.. |Get Started| image:: ../_static/get-started.png
+.. _Get Started: gettingstarted.html
+
+.. |Develop Guide| image:: ../_static/api-reference.png
+.. _Develop Guide: gettingstarted.html
+
+.. |H/W Reference| image:: ../_static/hw-reference.png
+.. _H/W Reference: gettingstarted.html
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :hidden:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   Get Started <gettingstarted>
+   Develop Guide <developguide>
+   H/W Reference <hardware>
