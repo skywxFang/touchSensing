@@ -3,12 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to touchSensing's documentation!
-========================================
+Touch Sensing
+==================
 
-This project aims to build a smart light with an ESP32 development board.
+In this project, we're going to build a smart light with an ESP32 development board.
 
-The smart light should have the following features:
+The smart light has the following features:
 
 * Controlled by touch action
 * With adjustable brightness
@@ -38,4 +38,3 @@ For more information, please check the documentation below.
    Get Started <gettingstarted>
    Develop Guide <developguide>
    H/W Reference <hardware>
-   Contents <contents>
